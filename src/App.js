@@ -1,11 +1,11 @@
 import Getmovies from "./components/Getmovies";
 import './App.css'
-import Navigation from "./Navigation";
+import Navbar from "./Navbar";
 
 function App() {
   return (
     <div>
-    <Navigation/>
+    <Navbar/>
      <Getmovies/>
       
     </div>

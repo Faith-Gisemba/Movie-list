@@ -1,5 +1,6 @@
 import React ,{useEffect,useState}from "react"
-import { getMovies } from "../../utils/utilities";
+import { getMovies } from "../../utilities";
+
 import ImageContainer from "../../atoms/ImageContainer";
 import './style.css'
 // const IMAGE_BASE_URL=process.env.REACT_APP_IMAGE_BASE_URL;
